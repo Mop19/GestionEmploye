@@ -5,3 +5,5 @@
 /GestionEmploye/obj
 /GestionEmploye/.vs/GestionEmploye/v16
 /.vs
+/GestionEmploye/.vs/GestionEmploye/config
+/GestionEmploye/bin/Debug/netcoreapp2.1
